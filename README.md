@@ -1,5 +1,9 @@
 <h1 align="center">Hola 😎👋, I'm Juan</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=6000&pause=1000&color=9BA9FF&background=FF19FA00&center=true&width=435&lines=A+FullStack+developer+from+Argentina" alt="Typing SVG" /></a>
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanc3&label=Pandas&color=ff0000&style=flat" alt="juanc3" /> </p>
 
