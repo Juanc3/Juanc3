@@ -1,5 +1,5 @@
 <h1 align="center">Hola 😎👋, I'm Juan</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=6000&pause=1000&color=9BA9FF&background=FF19FA00&width=435&lines=A+FullStack+developer+from+Argentina" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&duration=6000&pause=1000&color=9BA9FF&background=FF19FA00&width=435&lines=A+FullStack+developer+from+Argentina&center=true" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanc3&label=Pandas&color=ff0000&style=flat" alt="juanc3" /> </p>
 
