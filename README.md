@@ -7,19 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanc3&label=Pandas&color=ff0000&style=flat" alt="juanc3" /> </p>
 
-- 🔭 I’m currently working on **Web and Desktop software**
-
-- 🌱 I’m currently learning **React and Asp.Net**
-
-- 👯 I’m looking to collaborate on **Diferents Project**
-
-- 🤝 I’m looking for help with **React and .Net**
-
-- 👨‍💻 All of my projects are available at [link](link)
-
-- 📫 How to reach me **juan.gauna.dev@gmail.com**
-
-- ⚡ Fun fact **I love gym**
+<br>
 
 <h1 align="left">📱 Contact</h1>
 <a href="mailto:juan.gauna.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gauna-juan" /></a>
