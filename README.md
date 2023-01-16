@@ -1,14 +1,25 @@
-<h1 align="center">Hi 👋, I'm Juan</h1>
+<h1 align="center">Hola 😎👋, I'm Juan</h1>
 <h3 align="center">A FullStack developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanc3&label=Pandas&color=ff0000&style=flat" alt="juanc3" /> </p>
 
+- 🔭 I’m currently working on **Web and Desktop software**
+
+- 🌱 I’m currently learning **React and Asp.Net**
+
 - 👯 I’m looking to collaborate on **Diferents Project**
+
+- 🤝 I’m looking for help with **React and .Net**
+
+- 👨‍💻 All of my projects are available at [i wish i had a link](i wish i had a link)
 
 - 📫 How to reach me **juan.gauna.dev@gmail.com**
 
+- ⚡ Fun fact **I love gym**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/gauna-juan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauna-juan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
