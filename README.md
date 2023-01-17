@@ -48,10 +48,3 @@
 
 <br>
 <br>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=juanc3&show_icons=true&theme=dark&locale=en" alt="juanc3" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanc3&theme=dark" alt="juanc3" /></a>
-
-
-
-
