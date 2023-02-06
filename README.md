@@ -1,8 +1,4 @@
 <h1 align="center">Hola 😎👋, I'm Juan </h1>
-<a href="#">
-<img  src="FullstackDev.png">
-</a>
-
 <p align="center">
 <br>
 
