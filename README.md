@@ -1,16 +1,10 @@
 <h1 align="center">Hola 😎👋, I'm Juan </h1>
-<p align="center">
+<p align="center"> Soy un desarrollador full-stack con experiencia en desarrollo de aplicaciones web💻🌍. Me especializo en el uso de tecnologías como Express.js , Next.js y React para el desarrollo de aplicaciones escalables y de alta calidad. También tengo experiencia en implementaciones de bases de datos  Sql y NoSql. Me considero un apasionado del desarrollo, siempre estoy buscando nuevos retos y oportunidades con el fin de aprender y crecer profesionalmente ya que mi objetivo es poder pertenecer a un equipo en el que pueda poner en práctica los conocimientos adquiridos durante mis años de formación. Me gustaría profundizarme dentro de una empresa que ofrezca oportunidades en función de mi desempeño, logros y aportes. </p>
 <br>
 
 <h1 align="left">📱 Contact</h1>
 <a href="mailto:juan.gauna.dev@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gauna-juan" /></a>
 <a href="https://www.linkedin.com/in/gauna-juan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gauna-juan" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="gauna-juan" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="gauna-juan" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="gauna-juan" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="gauna-juan" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="gauna-juan" /></a>
-<a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="gauna-juan" /></a>
 
  <h1 align="left">🛠️ Software/Tools </h1>
  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="gauna-juan" /></a>
