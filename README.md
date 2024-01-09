@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/gauna-juan/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="gauna-juan" /></a>
 
  <h1 align="left">🛠️ Software/Tools </h1>
- <div style="display:flex , flex-direction:row , gap:10px, margin:10px">
+ <div style="display:flex , flex-direction:row , gap:20px">
   <img align="center" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="gauna-juan" />
  <img align="center" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="gauna-juan" />
  <img align="center" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="gauna-juan" />
@@ -18,7 +18,7 @@
  </div>
  
 <h1 align="left">💻 Languages/Frameworks </h1>
-<div style="display:flex , flex-direction:row , gap:10px , margin:10px">
+<div style="display:flex , flex-direction:row , gap:20px, margin:30 ">
  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="gauna-juan" />
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="gauna-juan" />
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="gauna-juan" />
