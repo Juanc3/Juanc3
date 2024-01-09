@@ -18,7 +18,7 @@
  </div>
  
 <h1 align="left">💻 Languages/Frameworks </h1>
-<div style="display:flex , flex-direction:row , gap:20px, margin:30 ">
+<div style="display:flex , flex-direction:row">
  <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="gauna-juan" />
 <img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="gauna-juan" />
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="gauna-juan" />
