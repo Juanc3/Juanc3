@@ -29,6 +29,3 @@
 <img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="gauna-juan" />
 <img align="center" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="gauna-juan" />
 </div>
-
-<br>
-<br>
