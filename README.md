@@ -34,23 +34,6 @@
 <hr/>
 <br/>
 
-<!-- Estadísticas de GitHub -->
-<h2 align="center">📊 Mis Estadísticas</h2>
-
-<div align="center">
-  <br/>
-  <a href="https://github.com/Juanc3">
-    <img src="https://github-readme-stats.vercel.app/api?username=Juanc3&show_icons=true&theme=tokyonight&locale=es&hide_border=true&bg_color=0d1117" alt="Juan's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Juanc3">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanc3&layout=compact&theme=tokyonight&locale=es&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
 <!-- Tech Stack -->
 <h2 align="center">🛠 Tecnologías y Herramientas</h2>
 
