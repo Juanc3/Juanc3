@@ -30,10 +30,6 @@
 
 </div>
 
-<br/>
-<hr/>
-<br/>
-
 <!-- Tech Stack -->
 <h2 align="center">🛠 Tecnologías y Herramientas</h2>
 
